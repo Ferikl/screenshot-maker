@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', 'ScreenMakerController@index');
-Route::get('/download', 'ScreenMakerController@downloadFile');
-Route::post('/getScreenshot', 'ScreenMakerController@makeScreenshot');
+Route::get('/', 'ScreenshotMakerController@index');
+Route::get('/download', 'ScreenshotMakerController@downloadFile');
+Route::post('/getScreenshot', 'ScreenshotMakerController@makeScreenshot');

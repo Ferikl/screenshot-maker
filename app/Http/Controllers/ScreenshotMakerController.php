@@ -8,7 +8,7 @@ use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Validator;
 
-class ScreenMakerController extends Controller
+class ScreenshotMakerController extends Controller
 {
     public function index()
     {
