@@ -1,5 +1,5 @@
 # ScreenshotMaker
-
+![screenshotmaker](https://user-images.githubusercontent.com/5629860/30274764-899423fa-9707-11e7-86d0-b98886184a6c.png)
 ## Description
 ScreenshotMaker provides possibility to make screenshot of any sites
 
