@@ -5,6 +5,7 @@ ScreenshotMaker provides possibility to make screenshot of any sites
 using Selenium and php-webdriver by <a href="https://github.com/facebook/php-webdriver">Facebook</a>
 
 ## Setup Application
+* run ```composer install```
 * create .env file from .env.example
 * run ```php artisan key:generate```
 * run ```php artisan storage:link```
